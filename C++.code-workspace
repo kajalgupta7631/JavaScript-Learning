@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../C++"
+		},
+		{
+			"path": "../HTML"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JavaScript",
+		"files.associations": {
+			"valarray": "cpp",
+			"iostream": "cpp"
+		}
+	}
+}
