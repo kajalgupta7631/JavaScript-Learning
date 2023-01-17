@@ -31,3 +31,9 @@
 
 // to remove this problem
 
+const user = {
+    firstName : "kajal",
+    //address : {hno : "61E"}
+};
+console.log(user?.address?.hno);
+
